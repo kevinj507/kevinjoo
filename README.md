@@ -1,2 +1,2 @@
-# kevinjoo
-Personal website 
+# Kevin Joo
+Personal website in progress
